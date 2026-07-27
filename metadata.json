@@ -1,0 +1,8 @@
+{
+  "name": "Huy Hoang_999 Music Studio - V5 - PRO",
+  "description": "An AI-powered application to assist in music creation. Generate lyrics, create artist images from your photos, and produce animated music videos.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
